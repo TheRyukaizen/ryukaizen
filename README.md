@@ -2,10 +2,10 @@
 <img src = https://telegra.ph/file/214da3471b3605de82f8c.gif width = "800" alt = "Ryukaizen"> 
 </p>
 
-<h1 align = "center">
+<h2 align = "center">
 <i> Another boring day, 
 btw welcome to </i><tt>ryukaizen/README.md</tt> 
-</h1>  
+</h2>  
 
 #
 
@@ -44,9 +44,7 @@ btw welcome to </i><tt>ryukaizen/README.md</tt>
 </div>
 </p>
 
-#
-
-<h2> You can find me here </h2>
+<h2> You can find me here :</h2>
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/TheRyukaizen) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TheRyukaizen) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheRyukaizen)
 
