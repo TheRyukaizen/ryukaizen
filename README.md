@@ -3,8 +3,8 @@
 </p>
 
 <h2 align = "center">
-<i> Another boring day, 
-btw welcome to </i><tt>ryukaizen/README.md</tt> 
+<b> Another boring day, 
+btw welcome to </b><tt>ryukaizen/README.md</tt> 
 </h2>  
 
 #
@@ -23,7 +23,8 @@ btw welcome to </i><tt>ryukaizen/README.md</tt>
 <img src = "https://telegra.ph/file/21ce2bb21c6195c0f4dab.gif" width = "100">     ![Rivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryukaizen&count_private=true&show_icons=true&theme=vision-friendly-dark)  <img src="https://media.tenor.com/images/84758965fe89003cc8f1a5a59a4bed1e/tenor.gif" width = "60"/> 
 
 
-<h3><b> I'm Rivan, a Weeb, Skid, Logo Designer, Photographer and I can port ROMs too. Most of my repositories are private btw.</b></h3>
+<h3><b> I'm Rivan, a Weeb, Skid, Logo Designer, Photographer and I can port ROMs too. 
+Most of my repositories are private btw.</b></h3>
  
 #
 
