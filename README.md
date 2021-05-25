@@ -7,7 +7,6 @@
 btw welcome to </b><tt>ryukaizen/README.md</tt> 
 </h2>  
 
-#
 
 <div align = "center">
    
@@ -23,8 +22,9 @@ btw welcome to </b><tt>ryukaizen/README.md</tt>
 <img src = "https://telegra.ph/file/21ce2bb21c6195c0f4dab.gif" width = "100">     ![Rivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryukaizen&count_private=true&show_icons=true&theme=vision-friendly-dark)  <img src="https://media.tenor.com/images/84758965fe89003cc8f1a5a59a4bed1e/tenor.gif" width = "60"/> 
 
 
-<h3><b> I'm Rivan, a Weeb, Skid, Logo Designer, Photographer and I can port ROMs too. 
-Most of my repositories are private btw.</b></h3>
+<h3><b> I'm Rivan, a Weeb, Skid, Logo Designer, Photographer and I can port ROMs too. </b></h3> 
+
+<h3><b> Most of my repositories are private btw. </h3></b> 
  
 #
 
@@ -45,7 +45,7 @@ Most of my repositories are private btw.</b></h3>
 </div>
 </p>
 
-<h2> You can find me here :</h2>
+<h2> You can find me here: </h2>
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/TheRyukaizen) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TheRyukaizen) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheRyukaizen)
 
