@@ -1,5 +1,5 @@
 <p align = "center"> 
-<img src = https://telegra.ph/file/214da3471b3605de82f8c.gif width = "800" alt = "Ryukaizen"> 
+<img src = https://telegra.ph/file/d41bbf7da79bbf2550f58.gif width = "800" alt = "Ryukaizen"> 
 </p>
 
 <h2 align = "center">
