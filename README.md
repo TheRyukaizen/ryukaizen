@@ -1,6 +1,6 @@
-<p align = "center"> 
+<!-- <p align = "center"> 
 <img src = https://telegra.ph/file/d41bbf7da79bbf2550f58.gif width = "800" alt = "Ryukaizen"> 
-</p>
+</p> -->
 
 <h2 align = "center">
 <b> Another boring day, 
